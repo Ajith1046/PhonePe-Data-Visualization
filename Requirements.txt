@@ -6,3 +6,4 @@ The following versions of these libraries are necessary to run this Project :-
 4) plotly.express-------------> 0.4.1
 5) geopandas------------------>
 6) MySQL----------------------> 0.0.3
+7) streamlit_option_menu------>
